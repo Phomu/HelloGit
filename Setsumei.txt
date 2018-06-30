@@ -3,4 +3,4 @@
 #Test for git clone
 #Success!
 #Hello world
-
+#Git Credential.helper unset
